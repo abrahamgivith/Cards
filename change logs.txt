@@ -1,0 +1,31 @@
+08 Jan 2020
+
+Login works
+Register user works
+Card save works
+Card Loading On work. it returns the jsonData 
+
+
+10 Jan 2020
+
+Card loading works
+card display works
+clear card modal upon re click done
+
+Keeping this as the back up before migrating to classes and code restructuring
+
+
+16 Jan 2020
+
+Completed
+	 #class migration
+		*login
+		*Register
+	#Change theme to light 
+
+
+To be done:
+	#Card loading class migration
+	#Get rid of reload button
+
+	
